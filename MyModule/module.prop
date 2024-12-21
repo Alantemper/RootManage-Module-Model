@@ -1,7 +1,7 @@
 id=aiwallpaper
-name=Enable AI wallpaper
+name=Unlocking function
 version=0.0.0
 versionCode=20241221
 author=Alantemper
-description=允许marble使用AI动态壁纸
+description=为marble启用AI动态壁纸
 updateJson=http://raw.githubusercontent.com/Alantemper/RootManage-Module-Model/main/update.json
